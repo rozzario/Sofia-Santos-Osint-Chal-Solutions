@@ -27,9 +27,9 @@ Grace aux différents points de repaires sur l'image, j'ai fait une recherche su
 
 Précédemment on avait remarqué qu'il y avait de la végétation au loin sur l'image et vu qu'il y a du bitumes on peut facilement délimité les zones possible de la prise de photo. Aussi vu qu'il y a du bitume sur la photo, on constate sur les images google earth qu'il y a 4 routes d'entrée dans kiffa comme le montre l'image ci-dessus. 
 Dans le tweet on lit que les "les villes affichent leur beauté et se présentent aux nouveaux arrivants". Sur la carte on remarque qu'il y a un aéroport dans la zone, donc je suis aller l'exploré mais elle est assez deserte.
-Dans la suite j'ai parcouru la route allant de l'aéroport à la ville et je suis tombé sur quelque chose d'interessant (se référer à l'image qui suit pour voir le résultat).
+Dans la suite j'ai parcouru la route allant de l'aéroport à la ville et je suis tombé sur quelque chose d'interessant (se référer à l'image qui suit pour voir le résultat). Plus précisément la zone 5, elle ressemble un peu a la disposition que nous avons sur l'image de départ. J'ai zoomé un peu pour voir si mon intuition était bonne. et bingo c'était bien ce que je pensais.
 
-![Kiffa](https://github.com/rozzario/Sofia-Santos-Osint-Chal-Solutions/blob/main/Exercice%20OSINT%20%23001/Capture%20d%E2%80%99%C3%A9cran%202025-03-13%20063322.jpg)
+![Kiffa](https://github.com/rozzario/Sofia-Santos-Osint-Chal-Solutions/blob/main/Exercice%20OSINT%20%23001/zone%201.jpg)
 
 
 
